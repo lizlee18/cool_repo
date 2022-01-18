@@ -3,3 +3,4 @@ packing list
 shoe
 dress
 shorts
+pants
